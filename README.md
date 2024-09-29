@@ -1,6 +1,6 @@
-## demo app - developing with Docker
+## Nodejs app - developing with Docker
 
-This demo app shows a simple user profile app set up using 
+This app shows a simple user profile app set up using 
 - index.html with pure js and css styles
 - nodejs backend with express module
 - mongodb for data storage
@@ -36,7 +36,7 @@ Step 6: Start your nodejs application locally - go to `app` directory of project
     npm install 
     node server.js
     
-Step 7: Access you nodejs application UI from browser
+Step 7: Access your nodejs application UI from browser
 
     http://localhost:3000
 
